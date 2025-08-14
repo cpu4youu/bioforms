@@ -1,1 +1,0 @@
-import{c as l}from"./index-de94dd96.js";const c=l((t,r)=>({selectedFighter:null,setSelectedFighter:e=>t({selectedFighter:e}),selectedLevel:{lootReward:10,groupXp:25,level:1},setSelectedLevel:e=>t({selectedLevel:e})}));export{c as u};
