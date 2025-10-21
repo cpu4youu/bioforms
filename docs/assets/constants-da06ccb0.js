@@ -1,1 +1,0 @@
-const e=40,a=20,l=[{label:"Magor",value:"magor"},{label:"Neri",value:"neri"},{label:"Eyeke",value:"eyeke"},{label:"Naron",value:"naron"},{label:"Veles",value:"veles"},{label:"Kavian",value:"kavian"}],n=[{building_name:"Tavern",img:"tavern"},{building_name:"Dungeon",img:"dungeon"},{building_name:"Arena",img:"arena"}];export{a,n as f,e as g,l};
