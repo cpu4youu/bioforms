@@ -1,1 +1,0 @@
-import{d as l}from"./index-0f3bbd39.js";const s=l((t,r)=>({selectedFighter:null,setSelectedFighter:e=>t({selectedFighter:e}),selectedLevel:{lootReward:10,groupXp:25,level:1},setSelectedLevel:e=>t({selectedLevel:e}),checkedFighters:[],setCheckedFighters:e=>t({checkedFighters:e})}));export{s as u};
