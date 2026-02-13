@@ -1,0 +1,1 @@
+import{d as c}from"./index-d5c19f07.js";const s=c((t,l)=>({selectedPack:null,setSelectedPack:e=>t({selectedPack:e}),selectedPointOffer:null,setSelectedPointOffer:e=>t({selectedPointOffer:e})}));export{s as u};
