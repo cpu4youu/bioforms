@@ -1,1 +1,0 @@
-import{d as c}from"./index-fa47d130.js";const s=c((t,l)=>({selectedPack:null,setSelectedPack:e=>t({selectedPack:e}),selectedPointOffer:null,setSelectedPointOffer:e=>t({selectedPointOffer:e})}));export{s as u};
