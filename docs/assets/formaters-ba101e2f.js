@@ -1,0 +1,1 @@
+const s=r=>{if(r===0)return"/assets/icons/trophy-gold.svg";if(r===1)return"/assets/icons/trophy-silver.svg";if(r===2)return"/assets/icons/trophy-bronze.svg";if(r>=3&&r<=6)return"/assets/icons/medal.svg"},t=r=>{if(r===0)return"100%";if(r===1)return"65%";if(r===2)return"40%";if(r===3)return"15%";if(r===4)return"10%";if(r===5)return"7%"};export{t as a,s as g};
