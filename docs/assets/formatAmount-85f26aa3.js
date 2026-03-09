@@ -1,0 +1,1 @@
+function n(t,i){return t==="wax"?(i/1e8).toLocaleString("en-US",{minimumFractionDigits:0,maximumFractionDigits:10}):(i/1e4).toLocaleString("en-US",{minimumFractionDigits:0,maximumFractionDigits:2})}export{n as f};
