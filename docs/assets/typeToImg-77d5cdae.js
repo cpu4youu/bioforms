@@ -1,0 +1,1 @@
+function n(r){return r==="action_points"?"energy.png":r==="gem"?"gems.png":r==="dust"?"credits.png":r==="legend_acct_seconds"?"account.svg":r==="wax"?"wax-coin.png":r==="tlm"?"tlm.svg":r==="gems"?"gems.png":r==="shards"?"shards.svg":""}export{n as t};
