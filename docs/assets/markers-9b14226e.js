@@ -1,0 +1,1 @@
+const e=["","damage","health","attackspeed","initiative","taunt","target","red-duble-down","red-down","middle","green-up","green-duble-up","gold-up","white","black","blue","yellow","red","credits","gems","energy","dungeons","arena","tavern"];export{e as m};
