@@ -1,0 +1,1 @@
+const r=e=>{switch(e){case"attackspeed":return"cooldown";case"initiative":return"windup";case"res_gem":return"Gem Resistence";case"res_metal":return"Metal Resistence";case"res_air":return"Air Resistence";case"res_fire":return"Fire Resistence";case"res_nature":return"Nature Resistence";case"res_neutral":return"Neutral Resistence";default:return e}};export{r as g};
