@@ -1,1 +1,0 @@
-import{R as o,r as s}from"./index-b59d23e0.js";const n=(t,r)=>{const e=o.useRef();return s.useCallback((...u)=>{e.current&&clearTimeout(e.current),e.current=setTimeout(()=>t(...u),r)},[t,r])};export{n as u};

@@ -1,1 +1,0 @@
-const s=Array.from({length:20},(r,e)=>1e3/(e+1)).reduce((r,e)=>r+e,0),o=(r,e)=>{if(r===0)return"/assets/icons/trophy-gold.svg";if(r===1)return"/assets/icons/trophy-silver.svg";if(r===2)return"/assets/icons/trophy-bronze.svg";if(r>=3&&r<=e)return"/assets/icons/medal.svg"},a=r=>`${(1e3/(r+1)/s*100).toFixed(2)}%`;export{a,o as g};
