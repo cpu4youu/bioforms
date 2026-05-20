@@ -1,0 +1,1 @@
+import{g as t,S as o,e as l,f as s,u as a}from"./index-a68b955e.js";const r=async()=>await t({options:{code:o.poolsAle,index_position:1,limit:"1000",scope:o.poolsAle,table:"tlmpools"}}),p=()=>l({queryKey:[s.TlmpoolsState],queryFn:()=>n(),enabled:!!a.getState().user});async function n(){try{const e=await r();return e||null}catch(e){return console.log(e),null}}export{p as u};
