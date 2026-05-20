@@ -1,1 +1,0 @@
-import{e as n,f as t,u as r,q as u,y as s}from"./index-92f18085.js";const c=e=>n({queryKey:[t.landDataState,e],queryFn:()=>o(e),staleTime:1e3*60*20,enabled:!!r.getState().user});async function i(e){return await u.invalidateQueries([t.landDataState,e])}async function o(e){try{const a=await s(e);return a||null}catch(a){return console.log(a),null}}export{i as o,c as u};
