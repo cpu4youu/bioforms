@@ -1,0 +1,1 @@
+import{g as o,S as e}from"./index-59f41c97.js";const s=async a=>await o({options:{code:e.dungeonsAle,index_position:1,limit:100,scope:e.dungeonsAle,table:"leaderboard",lower_bound:a},formatFnc:n=>n}),i=async a=>await o({options:{code:e.dungeonsAle,index_position:1,limit:a||100,scope:e.dungeonsAle,table:"leaderboard"}});export{s as a,i as g};
