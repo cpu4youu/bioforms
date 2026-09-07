@@ -1,0 +1,1 @@
+import{g as t,S as o,e as a,f as r,u as s}from"./index-75a512fe.js";const l=async()=>await t({options:{code:o.poolsAle,index_position:1,limit:"1000",scope:o.poolsAle,table:"shardpools"}}),p=()=>a({queryKey:[r.ShardpoolsState],queryFn:()=>n(),enabled:!!s.getState().user});async function n(){try{const e=await l();return e||null}catch(e){return console.log(e),null}}export{p as u};
